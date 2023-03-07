@@ -1,6 +1,5 @@
 - Hi, I'm Khang Duong
 - I'm a Software Engineer
-- I was born in a small island commune
 - You can connect with me via <a href="https://www.facebook.com/khangduong.me/">Facebook</a> , <a href="https://join.skype.com/invite/whBqdmqkRiSt">Skype</a> and <a href="mailto:duongtrongkhang042001@outlook.com">Outlook</a>
 🤝 Nice to meet you 🤝
 
