@@ -23,6 +23,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/duongkhang042001)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/khang-duong-dev/)
 
 Thanks for visiting my profile! Have a great day! 😊
