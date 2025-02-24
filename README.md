@@ -12,21 +12,10 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 ## 🛠️ Technologies & Tools
 
-- Languages: JavaScript, Python, HTML, CSS
-- Frameworks & Libraries: React, Node.js, Express, Django
-- Databases: MongoDB, MySQL, PostgreSQL
+- Languages: PHP, Golang, JavaScript, Python, HTML, CSS
+- Frameworks & Libraries: Laravel, Echo, Gin, React, Node.js, Express, Django
+- Databases: MongoDB, MySQL, PostgreSQL, DynamoDB
 - Tools: Git, Docker, VSCode
-
-## 🌟 Projects
-
-### [Project 1: Portfolio Website](https://github.com/duongkhang042001/portfolio-website)
-A personal portfolio website to showcase my projects and skills.
-
-### [Project 2: E-commerce Platform](https://github.com/duongkhang042001/e-commerce-platform)
-An online platform for buying and selling products, built with MERN stack.
-
-### [Project 3: Blogging Platform](https://github.com/duongkhang042001/blogging-platform)
-A full-featured blogging platform with user authentication and content management.
 
 ## 📈 GitHub Stats
 
@@ -35,6 +24,5 @@ A full-featured blogging platform with user authentication and content managemen
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/duongkhang042001)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](https://twitter.com/duongkhang042001)
 
 Thanks for visiting my profile! Have a great day! 😊
